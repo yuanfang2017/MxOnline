@@ -11,8 +11,10 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/apps" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 2.7.12 virtualenv at C:\Users\THINK\Envs\mxonline" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TemplatesService">
